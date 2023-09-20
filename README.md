@@ -5,10 +5,9 @@
 |---|
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary> contact me </summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/brandonnguyenr/" target="blank"><img align="center"
@@ -17,14 +16,26 @@
       <a href="mailto:nguyen.brandon771@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
       <a href="https://www.instagram.com/brannndddon/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
     </p>
   </samp>
+</div>
+</details>
+
+<details>
+  <summary> about</summary>
+<div>
+<samp>
+<h2 align="center">About this Account</h2>
+ <p align="center">
+  <a href="https://github.com/brandonnguyenr" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=brandonnguyenr&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+ </p>
+ </samp>
 </div>
 </details>
 
