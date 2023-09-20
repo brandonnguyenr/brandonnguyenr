@@ -5,7 +5,51 @@
 |---|
 
 <details>
-  <summary> contact me </summary>
+  <summary> about this page</summary>
+<div>
+<samp>
+ <p align="center">
+  <a href="https://github.com/brandonnguyenr" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=brandonnguyenr&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+ </p>
+ </samp>
+</div>
+</details>
+
+<details>
+  <summary> skills</summary>
+<div>
+    <samp>
+    <p align="center">
+  Programming languages
+  <br>
+   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a> 
+   <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+   <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <br>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <br>
+  <br>
+  &emsp;&emsp;&emsp;&emsp;Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
+   <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>
+   <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unrealengine" /></a> &emsp;
+   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a> 
+      <br>
+      <br>
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> 
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> 
+  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>&emsp;&emsp;
+  <a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a> 
+</summary>
+</div>
+    </samp>
+</details>
+  
 <div>
   <samp>
     <p align="center">
@@ -23,41 +67,5 @@
     </p>
   </samp>
 </div>
-</details>
-
-<details>
-  <summary> about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="https://github.com/brandonnguyenr" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=brandonnguyenr&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
- </p>
- </samp>
-</div>
-</details>
-
-
-
-<div>
-## Technologies
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-VSCode-grey?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/springboot-E34F26?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/-circleci-grey?&style=for-the-badge&logo=circleci&logoColor=61DAFB" />
-</div>
-
 </body>
 </html>
