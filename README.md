@@ -14,7 +14,7 @@
       <a href="https://www.linkedin.com/in/brandonnguyenr/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="nguyen.brandon771@gmail.com" target="blank"><img align="center"
+      <a href="mailto:nguyen.brandon771@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
