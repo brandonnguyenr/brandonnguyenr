@@ -49,7 +49,9 @@
 </div>
     </samp>
 </details>
-  
+
+<details>
+  <summary> contact me </summary>
 <div>
   <samp>
     <p align="center">
@@ -66,6 +68,8 @@
       <br>
     </p>
   </samp>
+  </summary>
 </div>
+
 </body>
 </html>
